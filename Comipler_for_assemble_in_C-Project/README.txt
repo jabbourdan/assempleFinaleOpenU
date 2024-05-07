@@ -1,6 +1,6 @@
 This is the project of the assemble.
 
-to run the project jsut you can ./a.out data data2 data3
+to run the project just you can ./a.out data data2 data3
 
 or what ever you want make sure the format of the data is .as and make sure that has the the file dont make any changes 
 
