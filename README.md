@@ -10,6 +10,7 @@
 3) Abstraction of data structures and variables used to fit our needs by defining different typedef structs types enums and constants.
 
 ## Build
+#### IMPORTANT: If you extract the project it is already have a.out file so you can skip this step but if you delete the a.out file you can follow these to create the a.out
 You may build with several tools:
 First: Go to Comipler_for_assemble_in_C-Project by `Cd Comipler_for_assemble_in_C-Project`.
 
@@ -22,7 +23,7 @@ First: Go to Comipler_for_assemble_in_C-Project by `Cd Comipler_for_assemble_in_
 ![My Photo](https://github.com/jabbourdan/assempleFinaleOpenU/blob/main/projcetScreenShots/1.png)
 
 ## Usage
-`./assembler file1 file2 file3 ...`
+`../a.out data data2 data3`
 Will start the processing of each file (specify WITHOUT extension!). No support for double-quoting file names.
 
 #### Our implementation Overview in short:
