@@ -11,6 +11,7 @@
 
 ## Build
 You may build with several tools:
+First: Go to Comipler_for_assemble_in_C-Project by `Cd Comipler_for_assemble_in_C-Project`.
 1. Using CMake: run `cmake --build .` (you might have to run `cmake --cofngiure .` first) - Provides support for CLion IDE
 2. Using `make` command (Makefile)
 3. Manually (Not recommended): compile each `*.c` file to `*.o` and then compile all to a single executable using `CC`/`GCC`/`CLang` with `-g a.o b.o .... -o exe`
